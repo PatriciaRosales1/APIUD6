@@ -1,0 +1,56 @@
+#botones button {
+    background-color: rgb(46, 231, 231);
+    height: 100px;
+    width: 150px;
+    border-color: black;
+    border-width: 1px;
+    margin: 20px;
+    font-weight: bold;
+
+}
+
+#botones button:hover {
+    background-color: rgb(255, 104, 242);
+    border-color: black;
+    border-width: 1px;
+    font-weight: bold;
+}
+
+body {
+    text-align: center;
+}
+
+#inicio {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 10px;
+}
+
+body {
+    padding: 20px;
+    background-image: url('fondo.jpg');
+    background-size: cover;
+}
+
+.navbar {
+    background-color: black !important;
+}
+
+.table {
+    width: 40%;
+    margin-top: 250px;
+    text-align: center;
+    border-color: black;
+}
+
+.table th {
+    background-color: black;
+    color: rgb(46, 231, 231);
+}
+
+.table td {
+    background-color:white;
+    color: rgb(255, 104, 242);
+}
+
